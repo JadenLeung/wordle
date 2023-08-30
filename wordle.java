@@ -518,8 +518,8 @@ public class wordle {
 			}
 			else if(nletter == 5)
 			{
-				File myObj = new File ("wordle/5word");
-				File myObj2 = new File ("wordle/5common");
+				File myObj = new File("wordle/5word");
+				File myObj2 = new File("wordle/5common");
 				input2 = new Scanner(myObj);
 				input3 = new Scanner(myObj2);
 				xx = 12485;
