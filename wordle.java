@@ -482,8 +482,8 @@ public class wordle {
 			Scanner input3;
 			if(nletter == 15)
 			{
-				File myObj = new File("wordle/15word");
-				File myObj2 = new File("wordle/15common");
+				File myObj = new File("15word");
+				File myObj2 = new File("15common");
 				input2 = new Scanner(myObj);
 				input3 = new Scanner(myObj2);
 				xx = 5688;
@@ -491,8 +491,8 @@ public class wordle {
 			}
 			else if(nletter == 8)
 			{
-				File myObj = new File("wordle/8word");
-				File myObj2 = new File("wordle/8common");
+				File myObj = new File("8word");
+				File myObj2 = new File("8common");
 				input2 = new Scanner(myObj);
 				input3 = new Scanner(myObj2);
 				xx = 29762;
@@ -500,8 +500,8 @@ public class wordle {
 			}
 			else if(nletter == 7)
 			{
-				File myObj = new File("wordle/7word");
-				File myObj2 = new File("wordle/7common");
+				File myObj = new File("7word");
+				File myObj2 = new File("7common");
 				input2 = new Scanner(myObj);
 				input3 = new Scanner(myObj2);
 				xx = 24004;
@@ -509,8 +509,8 @@ public class wordle {
 			}
 			else if(nletter == 6)
 			{
-				File myObj = new File("wordle/6word");
-				File myObj2 = new File("wordle/6common");
+				File myObj = new File("6word");
+				File myObj2 = new File("6common");
 				input2 = new Scanner(myObj);
 				input3 = new Scanner(myObj2);
 				xx = 10550;
@@ -518,8 +518,8 @@ public class wordle {
 			}
 			else if(nletter == 5)
 			{
-				File myObj = new File("wordle/5word");
-				File myObj2 = new File("wordle/5common");
+				File myObj = new File("5word");
+				File myObj2 = new File("5common");
 				input2 = new Scanner(myObj);
 				input3 = new Scanner(myObj2);
 				xx = 12485;
@@ -527,8 +527,8 @@ public class wordle {
 			}
 			else if(nletter == 4)
 			{
-				File myObj = new File ("wordle/4word");
-				File myObj2 = new File ("wordle/4common");
+				File myObj = new File ("4word");
+				File myObj2 = new File ("4common");
 				input2 = new Scanner(myObj);
 				input3 = new Scanner(myObj2);
 				xx = 5456;
@@ -536,8 +536,8 @@ public class wordle {
 			}
 			else
 			{
-				File myObj = new File ("wordle/3word");
-				File myObj2 = new File ("wordle/3common");
+				File myObj = new File ("3word");
+				File myObj2 = new File ("3common");
 				input2 = new Scanner(myObj);
 				input3 = new Scanner(myObj2);
 				xx = 1292;
